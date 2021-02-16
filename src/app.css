@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    margin: 30px auto;
+}
+
+h1{
+    margin-bottom: 15px;
+}
+
+.watch {
+    padding: 60px 0;
+    text-align: center;
+}
+
+.watch span{
+    display: inline-block;
+    font-size: 22px;
+    padding: 20px;
+    border-radius: 5px;
+    width: 70px;
+}
+
+.watch button{
+    margin-top: 15px;
+    margin-left: 8px;
+    padding: 12px 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+    width: 100px;
+    cursor: pointer;
+}
+
+
+
